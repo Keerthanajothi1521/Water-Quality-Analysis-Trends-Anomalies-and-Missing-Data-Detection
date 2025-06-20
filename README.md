@@ -53,28 +53,32 @@ Heatmap Revelations: The missing data matrix exposes:
 Achara’s DO gaps (red cells) coincide with sensor malfunctions (per maintenance records).
 Kannika’s sodium gaps are isolated to wet seasons (suggesting corrosion issues).
 
-4.Temporal Gaps:
+4. Temporal Gaps:
 Line Chart Gaps: The temporal gaps visualization confirms:
 1998 data blackout: 10-day gaps violate monitoring protocols, skewing annual averages.
 
 Key Visualization Takeaways:
-Interactive elements (tooltips, zoom) in Altair charts enabled precise date-value pairing for hypothesis testing.
-Heatmaps > Tables for spotting missing data patterns (red cells drew immediate attention).
-Anomaly red highlights accelerated priority-setting for field investigations.
+
+-Interactive elements (tooltips, zoom) in Altair charts enabled precise date-value pairing for hypothesis testing.
+-Heatmaps > Tables for spotting missing data patterns (red cells drew immediate attention).
+-Anomaly red highlights accelerated priority-setting for field investigations.
 
 Conclusion:
+
 This analysis of water quality data revealed critical insights about environmental conditions in the Boonsong Lekagul Wildlife Preserve:
-Dissolved oxygen trends showed both stable recovery periods and concerning declines, particularly at Boonsri
-Anomaly detection identified 7 significant pollution events through statistical analysis
-Missing data patterns exposed gaps in monitoring, especially for sodium levels
+-Dissolved oxygen trends showed both stable recovery periods and concerning declines, particularly at Boonsri
+-Anomaly detection identified 7 significant pollution events through statistical analysis
+-Missing data patterns exposed gaps in monitoring, especially for sodium levels
 
 The visualizations clearly highlighted:
+
 -Key pollution incidents (via scatter plots)
 -Chemical hotspots (through heatmaps)
 -Monitoring system weaknesses (in missing data charts)
 These findings provide a data-driven foundation for conservation efforts to protect the Rose-Crested Blue Pipit population.
 
 Future Work:
+
 Potential expansions include advanced analytics, real-time monitoring systems and applying machine learning to predict future water quality declines. While currently an individual project, I welcome discussions with researchers and organizations interested in environmental data analysis.
 Get Involved:
 📧 Contact: keerthanajothi1521@gmail.com
