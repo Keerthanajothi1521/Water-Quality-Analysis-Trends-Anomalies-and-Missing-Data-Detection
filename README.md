@@ -46,7 +46,6 @@ Temporal consistency: Ammonium spikes recur monthly (suggesting sustained runoff
 2. Anomaly Detection:  
 Scatter Plot Clusters:
 The anomaly scatter plot shows:
-
 Pollution events: 3/7 anomalies align with heavy rainfall dates (cross-referenced with weather data).
 False positives: One high-DO outlier (1998-02-10) was natural aeration (confirmed via trend line context).
 Trend-Anomaly Overlay:
