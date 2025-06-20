@@ -16,7 +16,6 @@ Key Findings (Results):
 📈 Dissolved Oxygen Trends
 Stable/increasing levels suggest recovery in some areas.
 Declines indicate deteriorating conditions (e.g., at Boonsri).
-
 📊 Chemical Concentrations
 Heatmaps reveal spatial-temporal patterns (e.g., high nitrates in Chai).
 
@@ -29,7 +28,6 @@ Spikes in ammonium levels.
 ⚠ Systemic Gaps in:
 Dissolved oxygen readings at Achara.
 Sodium measurements at Kannika.
-
 📉 Temporal Gaps: Long periods without data in 1998.
 
 Visualization-Supported Findings:
