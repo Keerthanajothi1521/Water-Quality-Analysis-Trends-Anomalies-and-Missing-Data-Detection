@@ -3,8 +3,11 @@ This repository contains a comprehensive analysis of water quality data from the
 
 Overview:
 This work analyzes water quality data from the Boonsong Lekagul Wildlife Preserve to investigate the decline of the Rose-Crested Blue Pipit population. The project focuses on:
+
 ✔ Trend detection in dissolved oxygen and chemical levels.
+
 ✔ Anomaly identification (sudden pollution events).
+
 ✔ Missing data analysis to assess data reliability.
 Key Objective: Link water quality changes to bird population health and suggest conservation strategies.
 
