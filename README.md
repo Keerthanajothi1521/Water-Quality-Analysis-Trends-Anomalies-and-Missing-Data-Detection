@@ -85,7 +85,9 @@ These findings provide a data-driven foundation for conservation efforts to prot
 Future Work:
 
 Potential expansions include advanced analytics, real-time monitoring systems and applying machine learning to predict future water quality declines. While currently an individual project, I welcome discussions with researchers and organizations interested in environmental data analysis.
+
 Get Involved:
+
 📧 Contact: keerthanajothi1521@gmail.com
 
 
